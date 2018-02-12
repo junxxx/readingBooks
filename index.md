@@ -5,5 +5,5 @@
 - [x] 《Pride and prejudice》简-奥斯汀
 - [x] 《边城》沈从文2018-1-23
 - [x] 《黄金时代》王小波 2018-1-28
-- [x] 《十日谈》乔万尼-薄伽丘 2018-2-12
+- [x] [《十日谈》] (https://github.com/junxxx/readingBooks/src/decameron.md) 乔万尼-薄伽丘 2018-2-12
 - [ ] 《情人》
