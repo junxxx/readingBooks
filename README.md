@@ -12,3 +12,4 @@ the book list want to read&amp;had read
 - [x] 《红与黑》 亨利·培尔（Henri Beyle）2018-2-18
 - [x] 《隐之书》 A.S. 拜雅特 2018-3-11
 - [x] 《罪与罚》 陀斯妥耶夫斯基 2018-3-22
+- [ ] 《美国种族简史》 托马斯·索威尔
