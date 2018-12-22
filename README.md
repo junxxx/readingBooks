@@ -14,3 +14,11 @@ the book list want to read&amp;had read
 - [x] 《罪与罚》 陀斯妥耶夫斯基 2018-3-22
 - [ ] 《美国种族简史》 托马斯·索威尔
 - [x] 《明朝那些事儿》当年明月 石悦（本名） 2018-11-26
+- [ ] 《中国近代史》徐中约 
+
+### to-do list
+- [ ] 《The C Programming Language》
+- [ ] 《Algorithms in C》
+- [ ] 《Advanced Programming in the UNIX Environment》
+- [ ] 《Unix Network Programming, Volume 1:The Socekts Networking API》
+- [ ] 《Unix Network Programming, Volume 2:Interprocess Communications》
