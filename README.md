@@ -1,4 +1,6 @@
 # readingBooks
+set the e-book to [calibre](https://calibre-ebook.com/)'s Calibre Library 
+
 the book list want to read&amp;had read
 ### Book-list
 
@@ -16,7 +18,7 @@ the book list want to read&amp;had read
 - [x] 《明朝那些事儿》当年明月 石悦（本名） 2018-11-26
 - [ ] 《中国近代史》徐中约 
 
-### to-do list
+### to-do list (in 3 ~ 5 years)
 - [ ] 《The C Programming Language》
 - [ ] 《Algorithms in C》
 - [ ] 《Advanced Programming in the UNIX Environment》
