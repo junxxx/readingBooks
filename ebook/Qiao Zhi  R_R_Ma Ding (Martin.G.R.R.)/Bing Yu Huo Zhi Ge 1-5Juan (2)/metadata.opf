@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4c34639-a9e3-41f7-bd45-be1e411723c2</dc:identifier>
+        <dc:title>冰与火之歌1-5卷</dc:title>
+        <dc:creator opf:file-as="R•R•马丁, 乔治" opf:role="aut">乔治 R•R•马丁(Martin.G.R.R.)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-28T16:00:00+00:00</dc:date>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;乔治 R•R•马丁(Martin.G.R.R.)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-11-26T08:34:19.874682+00:00" name="calibre:timestamp"/>
+        <meta content="冰与火之歌1-5卷" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

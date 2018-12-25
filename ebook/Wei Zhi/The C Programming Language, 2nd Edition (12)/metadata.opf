@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45c66b93-0916-4f54-8837-e60e627d7a83</dc:identifier>
+        <dc:title>The C Programming Language, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">未知</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">A Tutorial Introduction
+
+Getting Started
+Variables and Arithmetic Expressions
+The for statement
+Symbolic Constants
+Character Input and Output
+
+File Copying
+Character Counting
+Line Counting
+Word Counting
+
+Arrays
+Functions
+Arguments - Call by Value
+Character Arrays
+External Variables and Scope
+
+
+Chapter 2: Types| Operators and Expressions
+
+Variable Names
+Data Types and Sizes
+Constants
+Declarations
+Arithmetic Operators
+Relational and Logical Operators
+Type Conversions
+Increment and Decrement Operators
+Bitwise Operators
+Assignment Operators and Expressions
+Conditional Expressions
+Precedence and Order of Evaluation
+
+
+Chapter 3: Control Flow
+
+Statements and Blocks
+If-Else
+Else-If
+Switch
+Loops - While and For
+Loops - Do-While
+Break and Continue
+Goto and labels
+
+
+Chapter 4: Functions and Program Structure
+
+Basics of Functions
+Functions Returning Non-integers
+External Variables
+Scope Rules
+Header Files
+Static Variables
+Register Variables
+Block Structure
+Initialization
+Recursion
+The C Preprocessor
+
+File Inclusion
+Macro Substitution
+Conditional Inclusion
+
+
+
+Chapter 5: Pointers and Arrays
+
+Pointers and Addresses
+Pointers and Function Arguments
+Pointers and Arrays
+Address Arithmetic
+Character Pointers and Functions
+Pointer Arrays; Pointers to Pointers
+Multi-dimensional Arrays
+Initialization of Pointer Arrays
+Pointers vs. Multi-dimensional Arrays
+Command-line Arguments
+Pointers to Functions
+Complicated Declarations
+
+
+Chapter 6: Structures
+
+Basics of Structures
+Structures and Functions
+Arrays of Structures
+Pointers to Structures
+Self-referential Structures
+Table Lookup
+Typedef
+Unions
+Bit-fields
+
+
+Chapter 7: Input and Output
+
+Standard Input and Output
+Formatted Output - printf
+Variable-length Argument Lists
+Formatted Input - Scanf
+File Access
+Error Handling - Stderr and Exit
+Line Input and Output
+Miscellaneous Functions
+
+String Operations
+Character Class Testing and Conversion
+Ungetc
+Command Execution
+Storage Management
+Mathematical Functions
+Random Number generation
+
+
+
+Chapter 8: The UNIX System Interface
+
+File Descriptors
+Low Level I/O - Read and Write
+Open| Creat| Close| Unlink
+Random Access - Lseek
+Example - An implementation of Fopen and Getc
+Example - Listing Directories
+Example - A Storage Allocator
+
+
+
+Appendix A: Reference Manual
+
+Introduction
+Lexical Conventions
+Syntax Notation
+Meaning of Identifiers
+Objects and Lvalues
+Conversions
+Expressions
+Declarations
+Statements
+External Declarations
+Scope and Linkage
+Preprocessor
+Grammar
+
+
+Appendix B: Standard Library
+
+Input and Output: &amp;lt;stdio.h&amp;gt;
+
+File Operations
+Formatted Output
+Formatted Input
+Character Input and Output Functions
+Direct Input and Output Functions
+File Positioning Functions
+Error Functions
+
+Character Class Tests: &amp;lt;ctype.h&amp;gt;
+String Functions: &amp;lt;string.h&amp;gt;
+Mathematical Functions: &amp;lt;math.h&amp;gt;
+Utility Functions: &amp;lt;stdlib.h&amp;gt;
+Diagnostics: &amp;lt;assert.h&amp;gt;
+Variable Argument Lists: &amp;lt;stdarg.h&amp;gt;
+Non-local Jumps: &amp;lt;setjmp.h&amp;gt;
+Signals: &amp;lt;signal.h&amp;gt;
+Date and Time Functions: &amp;lt;time.h&amp;gt;
+Implementation-defined Limits: &amp;lt;limits.h&amp;gt; and &amp;lt;float.h&amp;gt;
+
+
+Appendix C: Summary of Changes</dc:identifier>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;未知&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-10-15T07:04:08+00:00" name="calibre:timestamp"/>
+        <meta content="C Programming Language, 2nd Edition, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

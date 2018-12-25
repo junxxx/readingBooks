@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d19705d0-f1e0-41f7-acad-c771b3fcc8d3</dc:identifier>
+        <dc:title>红与黑</dc:title>
+        <dc:creator opf:file-as="电子书免费赠送:行行微信491256034" opf:role="aut">电子书免费赠送:行行微信491256034</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-17T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;小说紧紧围绕主人公于连个人奋斗与最终失败的经历这一主线，广泛展现了“19世纪最初30年间压在法国人民头上的历届政府所带来的社会风气”，反映了19世纪早期法国的政治和社会生活中的一些本质问题。 　　在艺术上，小说以深刻细腻的笔调，广泛运用独白和自由联想等多种艺术手法，充分展示了主人公的心灵空间，挖掘出了主人公深层意识的活动，从而开创了后世“意识流小说”、“心理小说”的先河，司汤达因此被后人称为“现代小说之父”。&lt;br&gt;译本简介：&lt;br&gt;书库中现存的译本是人民文学出版社的版本，译者应该是张冠尧，但是恕我不敢肯定，因为我并没有读过这个译本。&lt;br&gt;我上传的译本是闻家驷的译本。&lt;br&gt;闻家驷先生，原名闻籍，湖北浠水人，著名法国文学专家、翻译家。著名诗人、学者、民主斗士闻一多先生的胞弟。北京大学西语系教授。1949年至1952年，任北京大学校务委员会常委兼西语系主任。曾任全国政协委员、常委，民盟中央委员、副主席，中央参议委员会副主任，中国翻译工作者协会名誉理事，法国文学研究会名誉会长，闻一多研究会名誉会长等职。主要著作有建国后参加《欧洲文学史》和《中国大百科全书》（外国文学卷）中法国文学条目等多项编撰工作，并担任《中国大百科全书》（外国文学卷）和《外国文学名著丛书》编委。译著：《雨果诗选》、《雨果诗抄》、《雨果诗歌精选》、《法国十九世纪诗选》、《红与黑》等。&lt;br&gt;这个译本是在红与黑中相对经典的。由于先生在法国留学多年，又是学习的法国文学，因此不仅仅是语言能力，包括思维与文化都受到了法国的影响，故此译本的感觉是很好的。&lt;br&gt;此外，郝运译本也是经典的版本。其翻译的准确性，句式的合理性无出其右，甚至超越了我传的译本。但是问题是过于追求扎实的语法后，从词到句都很好，但是一旦成篇，倒是有一种很冗的感觉。&lt;br&gt;我读过的另一个版本是许渊冲的，这个译本我找不到可做电子书的文稿，但是这是我最推荐的译本。被称为诗译英法唯一人，1999年获得诺贝尔文学奖的提名。如果大家喜欢这部小说，一定要读这个译本。&lt;br&gt;我不推荐的译本是罗新璋的，此人的译本我根本读不下去，说好听了，他是模仿傅雷的那种意译的达雅，但是真是画虎不成反类犬，大量的用古代的辞藻和四字词、成语来行文，我倒觉得可以作为语言实验的实验品了。&lt;br&gt;对了，大家除了知道这部小说叫做红与黑外，不要忘记了他的副标题：一八三○年纪事(皮埃尔.儒尔达校正本)&lt;/p&gt;</dc:description>
+        <dc:publisher>电子书免费赠送:行行微信491256034</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e5ab69a0-3995-4bdb-acf5-19c7f351eea2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>电子书免费赠送:行行微信491256034</dc:subject>
+        <meta content="{&quot;电子书免费赠送:行行微信491256034&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-02-15T11:11:41.708756+00:00" name="calibre:timestamp"/>
+        <meta content="红与黑" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb2434c1-4b2e-4ba4-972a-8253f701bd47</dc:identifier>
+        <dc:title>徐中约《中国近代史》（插图版）</dc:title>
+        <dc:creator opf:file-as="徐中约" opf:role="aut">徐中约</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-10T16:00:00+00:00</dc:date>
+        <dc:description>【这本书网络流传甚广、本人非常喜爱，花费了许多时间和精力配图排版制作这本书，希望大家喜欢，感谢这本书WORD版本制作者。】 
+【本书简介】《中国近代史》自1970年面世后五次修订，销售数十万册，为欧美及东南亚等地中国近代史研究的权威著作及最畅销的学术教科书，是一本极具深远影响的经典作品。
+　　这部近代史自清朝立国起，下迄21世纪，缕述四百年来中国近代社会之巨变。然作者明确指出，这段艰难的历程并非如大多西方汉学家所言，是一段西方因素不断输入而中国仅仅被动回应的历史。作者拈出“政府的政策和制度”、“反对外来因素的民族或种族抗争”以及“在新的天地里寻求一条求生之道”三条线索，作为推动近代中国发展的三股最重要动力，并通过对近代中国内部社会动荡的描摹，向世界讲述了“一个古老的儒家帝国经无比艰难，蜕变为一个近代民族国家”的历史。
+　　作者徐中约虽身处欧美学界，在书中想表达的却是“以中国人的身份对近代中国发展进程的看法”，但这种表达不囿于任何一家学说、一种主义，开出一种折衷调和的历史观。作者以超越意识形态、阶级、党派、种族和文化的眼光，怀抱对各色历史人物的宽容、同情、善意之心，能够公平公正、客观冷静地看待历史事件的发生。并且参考了巨量不同语种的档案文献及研究著述，以跨学科的方法写就这部描述近四百年中华民族之挣扎历程的史学巨著。
+【作者简介】徐中约（Immanuel C.Y.Hsü, 1923-2005），生于上海，中国近代史研究权威学者。1946年毕业于燕京大学，1954年获哈佛大学哲学博士，曾任加州大学圣巴巴拉分校历史系主任、荣休教授。学问严谨，著有《中国进入国际社会的外交，1858—1888年》（哈佛，1960）《伊犁危机：中俄外交研究，1871-1881年》（牛津，1965）等，翻译了梁启超《清代学术概论》（哈佛，1959）。1971年，由圣巴巴拉分校几百位教授组成的学术评议会遴选徐教授任“研究讲座”（Faculty Research Lecturer），此乃该校最高的学术荣誉。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh</dc:language>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;徐中约&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-11-30T14:43:52.631231+00:00" name="calibre:timestamp"/>
+        <meta content="徐中约《中国近代史》（插图版）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
