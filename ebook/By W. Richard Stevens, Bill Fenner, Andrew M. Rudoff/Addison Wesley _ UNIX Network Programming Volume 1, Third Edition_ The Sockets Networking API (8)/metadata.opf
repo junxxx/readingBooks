@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1636786-6d0d-4b8e-8256-299ae540bfad</dc:identifier>
+        <dc:title>Addison Wesley : UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API</dc:title>
+        <dc:creator opf:file-as="By W. Richard Stevens, Bill Fenner, Andrew M. Rudoff" opf:role="aut">By W. Richard Stevens, Bill Fenner, Andrew M. Rudoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.36.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Published November 21, 2003, 1024 pages.</dc:description>
+        <dc:publisher>Addison Wesley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0-13-141155-1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;By W. Richard Stevens, Bill Fenner, Andrew M. Rudoff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-12-25T15:06:53.474032+00:00" name="calibre:timestamp"/>
+        <meta content="Addison Wesley : UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
