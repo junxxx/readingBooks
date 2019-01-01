@@ -17,6 +17,7 @@ the book list want to read&amp;had read
 - [ ] 《美国种族简史》 托马斯·索威尔
 - [x] 《明朝那些事儿》当年明月 石悦（本名） 2018-11-26
 - [ ] 《中国近代史》徐中约 
+- [ ] 《汇编语言》王爽
 
 ### to-do list (in 3 ~ 5 years)
 CPU体系结构

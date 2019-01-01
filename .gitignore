@@ -1,2 +1,4 @@
-/ebook/metadata.db
-/ebook/metadata_db_prefs_backup.json
+ebook/metadata.db
+ebook/metadata_db_prefs_backup.json
+
+.DS_Store

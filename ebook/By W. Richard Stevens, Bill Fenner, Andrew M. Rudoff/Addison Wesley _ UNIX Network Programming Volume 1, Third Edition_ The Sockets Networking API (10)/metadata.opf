@@ -2,14 +2,22 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+<<<<<<< HEAD
         <dc:identifier opf:scheme="uuid" id="uuid_id">6719a21c-7405-46b6-bfdf-b62a60d6eb66</dc:identifier>
         <dc:title>Addison Wesley : UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API</dc:title>
         <dc:creator opf:file-as="By W. Richard Stevens, Bill Fenner, Andrew M. Rudoff" opf:role="aut">By W. Richard Stevens, Bill Fenner, Andrew M. Rudoff</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.12.0) [https://calibre-ebook.com]</dc:contributor>
+=======
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d188568a-7858-4599-bc81-b71ca6c36bac</dc:identifier>
+        <dc:title>Addison Wesley : UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API</dc:title>
+        <dc:creator opf:file-as="By W. Richard Stevens, Bill Fenner, Andrew M. Rudoff" opf:role="aut">By W. Richard Stevens, Bill Fenner, Andrew M. Rudoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.36.0) [https://calibre-ebook.com]</dc:contributor>
+>>>>>>> b082ce348a13fecd0d50b1e72d6375649286eb36
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>Published November 21, 2003, 1024 pages.</dc:description>
         <dc:publisher>Addison Wesley</dc:publisher>
         <dc:identifier opf:scheme="ISBN">0-13-141155-1</dc:identifier>
+<<<<<<< HEAD
         <dc:language>zh</dc:language>
         <meta content="{&quot;By W. Richard Stevens, Bill Fenner, Andrew M. Rudoff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="2018-09-29T05:15:39.495493+00:00" name="calibre:timestamp"/>
@@ -17,5 +25,14 @@
     </metadata>
     <guide>
         <reference href="cover.jpg" title="封面" type="cover"/>
+=======
+        <dc:language>en</dc:language>
+        <meta content="{&quot;By W. Richard Stevens, Bill Fenner, Andrew M. Rudoff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-12-26T13:38:02.059573+00:00" name="calibre:timestamp"/>
+        <meta content="Addison Wesley : UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+>>>>>>> b082ce348a13fecd0d50b1e72d6375649286eb36
     </guide>
 </package>
