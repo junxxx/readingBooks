@@ -19,6 +19,10 @@ the book list want to read&amp;had read
 - [ ] 《中国近代史》徐中约 
 
 ### to-do list (in 3 ~ 5 years)
+CPU体系结构
+汇编
+C/C++
+操作系统
 - [ ] 《The C Programming Language》
 - [ ] 《Algorithms in C》
 - [ ] 《Advanced Programming in the UNIX Environment》
